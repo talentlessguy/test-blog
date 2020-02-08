@@ -7,10 +7,12 @@ fields:
   config:
     required: false
   label: title
-- name: article
-  type: blocks
-  label: article
-  template_types: []
+- name: text
+  type: textarea
+  default: ''
   config:
-    min: 
-    max: 
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: text
