@@ -1,4 +1,16 @@
 ---
 label: post
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: article
+  type: blocks
+  label: article
+  template_types: []
+  config:
+    min: 
+    max: 
