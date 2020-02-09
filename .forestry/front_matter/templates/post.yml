@@ -17,6 +17,5 @@ fields:
       format: markdown
   label: text
 pages:
-- content/ghbdtn.md
 - content/home.md
 - content/page.md
