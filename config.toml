@@ -1,4 +1,4 @@
-baseURL = "https://isachkov.com"
-languageCode = "ru-ru"
-title = "Игорь Сачков"
-theme = "tale"
+baseURL = "https://blog.isachkov.ru"
+languageCode = "ru"
+title = "Блог Игоря Сачкова"
+theme = "paper"
