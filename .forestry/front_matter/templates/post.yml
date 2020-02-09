@@ -17,5 +17,4 @@ fields:
       format: markdown
   label: text
 pages:
-- content/home.md
 - content/page.md
