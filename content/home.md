@@ -1,5 +1,0 @@
-+++
-text = ""
-title = "home"
-
-+++
